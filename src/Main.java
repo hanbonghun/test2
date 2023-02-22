@@ -15,7 +15,7 @@ public class Main {
         q.add(new int[] {0,0}) ;
 
         while(!q.isEmpty()){
-            int[]p =q.poll();
+            int[]p =q.poll();dfdf
             answer++;
             for(int i=0; i<3; i++){
                 int nx = p[0]+k*dx[i];
